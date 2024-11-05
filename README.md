@@ -2,7 +2,7 @@
 <h2>Retro Snake Game</h2>
 <h5>a.k.a. Jogo da Cobrinha</h5>
 
-Feeling retro yet? Here's a complete Snake game inspired by the classic Nokia cellphone game that was a hit in the 2000s. Control the initial speed and size of your snake, and try to set a new record. Eat the food to grow without limits, but beware of your tail—it will get closer to you with every meal. Every so often, a special food will appear randomly, allowing you to earn points without growing.
+Feeling retro yet? Here it is. A complete Snake Game inspired by the classic NOKIA cellphone game that was a hit in the 00s. Control the initial speed and size of this little snake, and try to set the record. Eat the food and grow without limits, but beware of your tail, it will be closer to you after every meal. Once in a while a new special food will appear randomly, allowing you to win points without growing.
 
 All game sprites were made by myself.
 
