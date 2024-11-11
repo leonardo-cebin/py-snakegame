@@ -8,4 +8,4 @@ All game sprites were made by myself.
 
 Easter Eggs included ;)
 
-<img src="https://i.imgur.com/YM03Wwq.gif" alt="Snake game as its finest, running like a old Mobile Nokia"/>
+<img align="center" src="https://i.imgur.com/YM03Wwq.gif" alt="Snake game as its finest, running like a old Mobile Nokia"/>
