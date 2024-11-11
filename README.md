@@ -7,5 +7,7 @@ Feeling retro yet? Here it is. A complete Snake Game inspired by the classic NOK
 All game sprites were made by myself.
 
 Easter Eggs included ;)
+<p align="center">
+  <img src="https://i.imgur.com/YM03Wwq.gif" alt="Snake game as its finest, running like a old Mobile Nokia"/>
+</p>
 
-<img align="center" src="https://i.imgur.com/YM03Wwq.gif" alt="Snake game as its finest, running like a old Mobile Nokia"/>
